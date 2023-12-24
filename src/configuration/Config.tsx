@@ -30,6 +30,6 @@ export const DOMAIN_PLACEHOLDER = "Search for a name" //Placeholder for search i
 export const ADMIN_WALLET = "0x6ec0Ce3333A7A2a37e38c656B46752F2a9fC8e19" //ETH wallet address 
 
 export const NOTICE_TITLE = "Bulletin board"
-export const NOTICE_NON_MEMBER = "Only the .0x domain holder can view bulletin board."
+export const NOTICE_NON_MEMBER = "Become a .0x holder to unlock"
 
-export const DOMAIN_BANNER = "https://i.imgur.com/pcV65kl.png" //290x80 size
+export const DOMAIN_BANNER = "https://i.imgur.com/XQiar2V.png" //290x80 size
