@@ -24,7 +24,7 @@ export const DOMAIN_IMAGE_URL = 'https://ipfs.io/ipfs/QmWfLXhfseaSkLrGm14my1TyrK
 export const DOMAIN_NETWORK_CHAIN = 137 //137 for polygon, 314 for filecoin, 80001 form mumbai
 export const DOMAIN_DESCRIPTION = 'Decentralized websites, business cards, personal ID, Register a new domain: https://0xns.pro'
 export const DOMAIN_TYPE = "W3D" //W3D for polygon, FVM for Filecoin net
-export const DOMAIN_TITLE = "Web3 Domain Search" //Title above the search input field. 
+export const DOMAIN_TITLE = "" //Title above the search input field. 
 export const DOMAIN_PLACEHOLDER = "Search for Domain" //Placeholder for search input field 
 
 export const ADMIN_WALLET = "0x6ec0Ce3333A7A2a37e38c656B46752F2a9fC8e19" //ETH wallet address 
