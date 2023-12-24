@@ -16,7 +16,7 @@ export const SOCIAL_LINKEDIN = ''
 export const SOCIAL_DISCORD = ''
 
 export const NETWORKS = [polygon]; //polygon, filecoin, polygonMumbai
-export const NETWORK_ERROR = "Connect your wallet and Change network to polygon !" //Change network name as required
+export const NETWORK_ERROR = "Connect your wallet/Change network to polygon !" //Change network name as required
 
 export const DOMAIN_TLD = '0x' //primary domain name without dot (.)
 export const DOMAIN_PRICE_ETH = '1' //price should be equal to contract or higher 
@@ -29,7 +29,7 @@ export const DOMAIN_PLACEHOLDER = "Search for a name" //Placeholder for search i
 
 export const ADMIN_WALLET = "0x6ec0Ce3333A7A2a37e38c656B46752F2a9fC8e19" //ETH wallet address 
 
-export const NOTICE_TITLE = "Bulletin board"
+export const NOTICE_TITLE = "Airdrop"
 export const NOTICE_NON_MEMBER = "Become a .0x holder to unlock"
 
 export const DOMAIN_BANNER = "https://i.imgur.com/XQiar2V.png" //290x80 size
