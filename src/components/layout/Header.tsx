@@ -276,4 +276,8 @@ const NAV_ITEMS: Array<NavItem> = [
     label: "Domains",
     href: "/list",
   },
+  {
+    label: "Staking",
+    href: "https://stake.0xns.pro",
+  },
 ];
