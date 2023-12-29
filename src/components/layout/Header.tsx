@@ -281,7 +281,7 @@ const NAV_ITEMS: Array<NavItem> = [
     href: "https://stake.hi0x.net",
   },
   {
-    label: "Domains",
+    label: "My Domains",
     href: "/list",
   },
 ];
