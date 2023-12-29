@@ -273,11 +273,7 @@ const NAV_ITEMS: Array<NavItem> = [
     ],
   },
   {
-    label: "Domains",
-    href: "/list",
-  },
-  {
-    label: "Stakes↓",
+    label: "Stakes ↓",
     href: "/",
     children: [
       {
@@ -287,8 +283,11 @@ const NAV_ITEMS: Array<NavItem> = [
       },
       {
         label: 'H Staking',
-        subLabel: 'Stake H token',
+        subLabel: 'Stake H Tokens',
         href: 'https://stake.hi0x.net',
-      },
+      },  },
+  {
+    label: "Domains",
+    href: "/list",
   },
 ];
