@@ -284,4 +284,8 @@ const NAV_ITEMS: Array<NavItem> = [
     label: "My Domains",
     href: "/list",
   },
+  {
+    label: "Market",
+    href: "https://market.0xns.pro",
+  },
 ];
