@@ -32,4 +32,4 @@ export const ADMIN_WALLET = "0x6ec0Ce3333A7A2a37e38c656B46752F2a9fC8e19" //ETH w
 export const NOTICE_TITLE = "Airdrop"
 export const NOTICE_NON_MEMBER = "Become a .0x holder to unlock"
 
-export const DOMAIN_BANNER = "https://i.imgur.com/meCI8EI.gif" //290x80 size
+export const DOMAIN_BANNER = "https://i.imgur.com/HoXYnAM.gif" //290x80 size
