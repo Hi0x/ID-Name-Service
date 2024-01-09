@@ -285,6 +285,10 @@ const NAV_ITEMS: Array<NavItem> = [
     href: "/list",
   },
   {
+    label: "Profile",
+    href: "https://me.0xns.pro",
+  },
+  {
     label: "Market",
     href: "https://market.0xns.pro",
   },
