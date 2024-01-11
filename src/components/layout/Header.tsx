@@ -258,7 +258,7 @@ const NAV_ITEMS: Array<NavItem> = [
       {
         label: 'Messenger',
         subLabel: 'Chat with 0x Wallet owners',
-        href: 'https://hi0x.net/chat',
+        href: 'https://chat.hi0x.net',
       },
       {
         label: 'Telegram',
