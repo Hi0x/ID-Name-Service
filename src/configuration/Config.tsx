@@ -1,7 +1,7 @@
 import { ThemingProps } from '@chakra-ui/react'
 import { polygon} from '@wagmi/chains'
 
-export const SITE_NAME = '0x Name Service'
+export const SITE_NAME = '0X Domain Name'
 export const SITE_DESCRIPTION = 'Hi0x © 2023'
 export const SITE_URL = 'https://0xns.pro'
 
