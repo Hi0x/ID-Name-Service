@@ -269,7 +269,7 @@ const NAV_ITEMS: Array<NavItem> = [
     href: "https://stake.0xns.pro",
   },
   {
-    label: 'Documents',
+    label: 'Docs',
     href: 'https://docs.hi0x.net/0x-name-service',
   },
 ];
