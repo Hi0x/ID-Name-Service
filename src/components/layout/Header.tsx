@@ -251,45 +251,25 @@ const MobileNavItem = ({ label, children, href }: NavItem) => {
 };
 
 const NAV_ITEMS: Array<NavItem> = [
+  
   {
-    label: "Home ↓",
-    href: "/",
-    children: [
-      {
-        label: 'Messenger',
-        subLabel: 'Chat with 0x Wallet owners',
-        href: 'https://chat.hi0x.net',
-      },
-      {
-        label: 'Telegram',
-        subLabel: 'Join our Telegram group',
-        href: 'https://t.me/hi0xchat',
-      },
-      {
-        label: 'Documentation',
-        subLabel: 'Read the documents',
-        href: 'https://docs.hi0x.net/0x-name-service',
-      },
-    ],
+    label: "Home",
+    href: "https://home.hi0x.net/",
   },
   {
-    label: "0x Staking",
-    href: "https://stake.0xns.pro",
-  },
-  {
-    label: "H Staking",
-    href: "https://stake.hi0x.net",
-  },
-  {
-    label: "My Domains",
+    label: "Domains",
     href: "/list",
-  },
-  {
-    label: "Profile",
-    href: "https://me.0xns.pro",
   },
   {
     label: "Market",
     href: "https://market.0xns.pro",
+  },
+  {
+    label: "Stake",
+    href: "https://stake.0xns.pro",
+  },
+  {
+    label: 'Documents',
+    href: 'https://docs.hi0x.net/0x-name-service',
   },
 ];
