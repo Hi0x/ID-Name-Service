@@ -269,6 +269,10 @@ const NAV_ITEMS: Array<NavItem> = [
     href: "https://stake.0xns.pro",
   },
   {
+    label: "ID",
+    href: "https://id.0xns.pro",
+  },
+  {
     label: 'Docs',
     href: 'https://docs.hi0x.net/0x-name-service',
   },
