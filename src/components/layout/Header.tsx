@@ -265,12 +265,12 @@ const NAV_ITEMS: Array<NavItem> = [
     href: "https://market.0xns.pro",
   },
   {
-    label: "Stake",
-    href: "https://stake.0xns.pro",
-  },
-  {
     label: "ID",
     href: "https://id.0xns.pro",
+  },
+  {
+    label: "Stake",
+    href: "https://stake.0xns.pro",
   },
   {
     label: 'Docs',
