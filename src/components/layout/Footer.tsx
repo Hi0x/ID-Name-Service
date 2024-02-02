@@ -117,7 +117,7 @@ export function Footer(props: Props) {
           {SOCIAL_LINKEDIN && SOCIAL_LINKEDIN !== undefined && (
             <SocialButton
               label={"LinkedIn"}
-              href={`https://www.linkedin.com/in/${SOCIAL_LINKEDIN}`}
+              href={`https://www.linkedin.com/company/${SOCIAL_LINKEDIN}`}
             >
               <FaLinkedin />
             </SocialButton>
