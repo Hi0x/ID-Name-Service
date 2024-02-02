@@ -44,7 +44,6 @@ const Home: NextPage = () => {
             py={{ base: 20, md: 2 }}
           >
             
-            <PrivateNotice/>
             <div>
 
 
@@ -54,9 +53,7 @@ const Home: NextPage = () => {
               </Heading>
             
                 <Search />
-                <br />
-                <br />
-                <h3>One-time payment, no renewal fees, it's yours forever</h3>
+                
              
             </div>
           </Stack>
