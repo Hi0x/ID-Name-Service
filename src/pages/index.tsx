@@ -3,6 +3,7 @@ import React from "react";
 import {DOMAIN_TITLE,DOMAIN_BANNER} from "../configuration/Config";
 import Search from "../components/domain/Search";
 import { Image,Center } from '@chakra-ui/react'
+import PrivateNotice from "../components/message/PrivateNotice";
 
 // Import debounce from lodash
 import {
@@ -24,16 +25,14 @@ const Home: NextPage = () => {
       borderRadius="md"
       color={useColorModeValue("gray.700", "whiteAlpha.900")}
       shadow="base"
-      bgColor='#070e2b'
     >
       <Box
         textAlign="center"
         alignContent={"center"}
         borderRadius="lg"
-        p={{ base: 5, lg: 6 }}
+        p={{ base: 5, lg: 16 }}
         bgSize={"lg"}
         maxH={"80vh"}
-        bgColor='#070e2b'
       >
         <Container maxW={"5xl"} alignItems={"center"} justifyContent={"center"}>
         <Center>
@@ -45,6 +44,7 @@ const Home: NextPage = () => {
             py={{ base: 20, md: 2 }}
           >
             
+            <PrivateNotice/>
             <div>
 
 
@@ -54,9 +54,6 @@ const Home: NextPage = () => {
               </Heading>
             
                 <Search />
-              <br />
-                <br />
-                <h6>One-time payment, no renewal fees, it's yours forever</h6>
              
             </div>
           </Stack>
