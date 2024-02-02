@@ -54,6 +54,9 @@ const Home: NextPage = () => {
               </Heading>
             
                 <Search />
+              <br />
+                <br />
+                <h6>One-time payment, no renewal fees, it's yours forever</h6>
              
             </div>
           </Stack>
