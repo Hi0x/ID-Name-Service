@@ -32,4 +32,4 @@ export const ADMIN_WALLET = "0xbed79816b54E75eD54BF217333342C8d271b3b6f" //ETH w
 export const NOTICE_TITLE = ""
 export const NOTICE_NON_MEMBER = ""
 
-export const DOMAIN_BANNER = "https://i.imgur.com/Ky8J4NM.png" //290x80 size
+export const DOMAIN_BANNER = "https://i.imgur.com/1lGknqu.png" //290x80 size
