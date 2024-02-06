@@ -254,7 +254,7 @@ const NAV_ITEMS: Array<NavItem> = [
   
   {
     label: "Home",
-    href: "https://home.hi0x.net/",
+    href: "https://0xns.pro",
   },
   {
     label: "Domains",
@@ -266,7 +266,7 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: "0X",
-    href: "https://0xns.pro",
+    href: "https://0x.0xns.pro",
   },
   {
     label: "Stake",
